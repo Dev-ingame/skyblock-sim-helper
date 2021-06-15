@@ -1,17 +1,28 @@
-## skyblock-sim-helper
+# skyblock-sim-helper
 
-# Supported Versions
+## Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.16.x   | :white_check_mark: |
 | 1.7.-x   | :x:                |
 
-# Reporting And Suggestions
+## Help
+
+commands
+
+Host: /tag @s add owner
+
+if u want people get game mode c tag them with
+/tag "players name" add (admin) or (c)
+
+## Reporting And Suggestions
 
 All Reporting can be found on my omlet arcade
 
 All Suggestions is on my omlet arcade
+
+
 
 
 
